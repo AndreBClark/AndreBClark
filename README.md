@@ -71,8 +71,3 @@ My public work represents a fraction of my actual development - quality and lear
 - 💼 **LinkedIn:** [andre-clark](https://www.linkedin.com/in/andre-clark-327820191/)
 - 📧 **Email:** andre@cosmicdivision.dev
 - 📍 **Location:** Spokane, WA (Remote strongly preferred)
-
----
-
-*"Often you will be the voice of the user; pitching features and changes to allow for a better user experience."*  
-— A principle I carry into every project
